@@ -1,6 +1,4 @@
-# AlgoTasker
-
-A Smart Task Scheduling System
+# AlgoTasker (A Smart Task Scheduling System)
 
 # 🎯 Overview
 
