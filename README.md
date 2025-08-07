@@ -130,4 +130,4 @@ We welcome contributions to AlgoTasker!
 
 # 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](<[AlgoTasker/LICENSE](https://github.com/adarsh0011/AlgoTasker/blob/main/LICENSE)>) file for details.
+This project is licensed under the MIT License - see the [LICENSE](<[AlgoTasker/LICENSE](https://github.com/adarsh0011/AlgoTasker/blob/main/LICENSE)>) file for detail
